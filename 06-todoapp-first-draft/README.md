@@ -149,6 +149,6 @@ export default TodoApp;
 
  <br/>
  
- <sub>[<< Poprzedni](https://github.com/donatuss/Redux-Start-Egghead/blob/master/05-reducer-composition/README.md)
-  | [Następny >>](https://github.com/donatuss/Redux-Start-Egghead/blob/master/07-todoapps-toggling-todo/README.md)
+ <sub>[<< Poprzedni](https://github.com/donatuss/Redux/blob/master/05-reducer-composition/README.md)
+  | [Następny >>](https://github.com/donatuss/Redux/blob/master/07-todoapps-toggling-todo/README.md)
  </sub>
