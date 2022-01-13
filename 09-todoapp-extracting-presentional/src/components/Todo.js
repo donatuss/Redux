@@ -1,6 +1,5 @@
 import React from 'react';
 import {Label} from 'semantic-ui-react';
-import {v4} from "uuid";
 
 const Todo = ({onClick, completed, text}) => (
     <Label
