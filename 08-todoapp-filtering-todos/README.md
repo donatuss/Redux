@@ -1,5 +1,5 @@
 ## 08 Todos Aplikacja - Część 3 - Filtrowanie todos. Uzupełnienie reduktora o visibilityFilter. Komponent FilterLink, uzupełnienie TodoApps 
-<sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
+<sub>[<< Cofnij](https://github.com/donatuss/Redux/blob/master/README.md)</sub><br/>
 
 Część 3 aplikacji Todos - rozszerzamy reduktor o visibilityFilter 
 

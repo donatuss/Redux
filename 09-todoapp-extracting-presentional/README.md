@@ -1,5 +1,5 @@
 ## 09 Todos Aplikacja - Część 4 -  Wyodrębnienie komponentów odpowiedzialnych za prezentację
-<sub>[<< Cofnij](https://github.com/donatuss/Redux-Start-Egghead/blob/master/README.md)</sub><br/>
+<sub>[<< Cofnij](https://github.com/donatuss/Redux/blob/master/README.md)</sub><br/>
 
 Część 4 aplikacji Todos - komponenty prezentacyjne Todo, TodoList  nie zawierają logiki, odpowiadają jedynie z prezentacje (widok).
 Elementy (funkcje, obiekty) potrzebne do wyrysowania przez nie widoku są im dostarczane. 
