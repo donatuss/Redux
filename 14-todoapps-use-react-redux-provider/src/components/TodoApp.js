@@ -4,9 +4,11 @@ import {Container, Divider, Grid} from 'semantic-ui-react';
 import AddTodo from "../containers/AddTodo";
 import FilterHeader from "./FilterHeader";
 import VisibleTodoList from "../containers/VisibleTodoList";
+import {ReactReduxContext} from "react-redux";
 
 
 class TodoApp extends Component {
+    static contextType = ReactReduxContext;
 
     constructor(props) {
         super(props);
@@ -59,9 +61,5 @@ class TodoApp extends Component {
         )
     }
 }
-
-TodoApp.contextTypes = {
-    store: PropTypes.object
-};
 
 export default TodoApp;
